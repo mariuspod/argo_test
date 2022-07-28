@@ -3,4 +3,5 @@ kind: Secret
 metadata:
   name: first-repo
   namespace: argocd
-stringData: {}
+stringData:
+  bro: whazzup
