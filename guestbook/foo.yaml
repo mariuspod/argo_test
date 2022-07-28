@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: Secret
-metadata:
-  name: first-repo
-  namespace: argocd
-stringData:
-  type: git
-  url: https://github.com/argoproj/private-repo
-  hi: sven
