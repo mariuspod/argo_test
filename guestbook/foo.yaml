@@ -5,3 +5,4 @@ metadata:
   namespace: argocd
 stringData:
   bro: whazzup
+  test: {{.Values}}
