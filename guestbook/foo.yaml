@@ -6,5 +6,4 @@ metadata:
 stringData:
   type: git
   url: https://github.com/argoproj/private-repo
-  hey: ho
   hi: sven
